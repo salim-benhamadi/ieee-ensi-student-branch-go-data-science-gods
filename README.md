@@ -6,6 +6,7 @@ The objective of this challenge is to create a machine learning model to accurat
 
 # 💽 Data
 The data contains images of streets in South Africa that either have potholes (positive response) or do not (negative response). The data have been split into a test and train set. The training set contains 4,026 images of test set contains 1,650 images.
+
 ![ ](https://i.imgur.com/rRscep4.png)
 
 # 🛠 Tech stuck
